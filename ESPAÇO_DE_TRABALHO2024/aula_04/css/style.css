@@ -1,0 +1,45 @@
+h2{
+    padding-top: 10px; /* Espaçamento interno para o topo*/
+    padding-bottom: 15px;/* Espaçamento para baixp*/
+    padding-left: 6px;/*Espaçamento para a esquerda*/
+    text-align:center;/*Alinha o texto no centro*/
+    padding: 30px;
+    
+}
+.azul {
+    background-color:  #2e6ea6;
+    border: 5px solid 00000;
+
+}
+
+.vermelho {
+    background-color:#ee0d0d;
+
+}
+
+.vermelho {
+
+    background-color:rgb(158, 33, 33);
+}
+
+.verde{
+    background-color: #66C59E ;
+
+}
+   a{
+    background-color: #4691FF;
+    color: #ffffff;
+    text-decoration: none;/*retira o sunblinhado do link*/
+    padding:20px;
+    border-radius: 5px;
+   }
+ 
+   a:hover{
+     background-color: #FF1201;
+   }
+    button{
+        background-color:#FFCD4F;
+        border-radius:  5px;
+    }
+
+   
